@@ -1,2 +1,1 @@
-# dummy-project
-A dummy project for testing
+# Hello World\n\nThis is a dummy project created via GitHub MCP.
